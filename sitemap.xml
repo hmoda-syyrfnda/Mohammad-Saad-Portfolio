@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://hmoda-syyrfnda.github.io/Mohammad-Saad-Portfolio/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://hmoda-syyrfnda.github.io/Mohammad-Saad-Portfolio/hero.png</image:loc>
+      <image:title>Mohammad Saad — Visual Journalist</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://hmoda-syyrfnda.github.io/Mohammad-Saad-Portfolio/protests-finland.jpeg</image:loc>
+      <image:title>Demonstrations and public events in Finland</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://hmoda-syyrfnda.github.io/Mohammad-Saad-Portfolio/syrian-community.jpeg</image:loc>
+      <image:title>Syrian Community in Finland</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://hmoda-syyrfnda.github.io/Mohammad-Saad-Portfolio/jableh-syria.jpg</image:loc>
+      <image:title>Coastal town of Jablah, Syria</image:title>
+    </image:image>
+  </url>
+</urlset>
