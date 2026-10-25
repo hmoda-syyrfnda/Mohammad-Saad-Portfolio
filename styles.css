@@ -612,6 +612,8 @@ html[dir="rtl"] .nav__links--open {
 .project-card__image {
   width: 100%;
   height: 100%;
+  object-fit: cover;
+  display: block;
   background-size: cover;
   background-position: center;
   transition: transform var(--transition-slow);

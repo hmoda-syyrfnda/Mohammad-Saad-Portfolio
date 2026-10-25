@@ -1,0 +1,38 @@
+# Mohammad Saad — Visual Journalism & Social Media Portfolio
+# محمد سعد — صحافة بصرية وإعلام مجتمعي
+
+> Mohammad Saad is a freelance visual journalist and social media communications professional based in Finland, documenting communities, social movements, and cultural stories in the Nordic region and Syria.
+
+## Profile Summary / نبذة تعريفية
+- **Name:** Mohammad Saad | محمد سعد
+- **Profession:** Visual Journalist & Social Media Communicator (صحفي بصرية ومتخصص في التواصل الاجتماعي)
+- **Location:** Finland (فنلندا)
+- **Experience:** Nearly a decade living and working in the Nordic region.
+- **Languages:** Finnish (Suomi), Arabic (العربية), English
+- **Focus Areas:** Visual storytelling, photojournalism, community engagement, documentation of civil and cultural events in Finland and the Syrian diaspora.
+
+## Core Expertise / المهارات والخدمات
+1. **Visual Journalism (الصحافة البصرية):** Event documentation, photojournalism, and video storytelling focusing on authentic, human-centered narratives.
+2. **Social Media Communication (التواصل الاجتماعي):** Active community management, content creation, and cross-platform audience engagement.
+3. **News & Current Affairs (الأخبار والقضايا الراهنة):** Monitoring social and political developments with factual accuracy and civic awareness.
+4. **AI-Assisted Media Production (الإنتاج الإعلامي المدعوم بالذكاء الاصطناعي):** Leveraging AI tools for research, ideation, and rapid content generation.
+5. **Community Storytelling (الإعلام والتواصل المجتمعي):** Bridging stories between the Finnish society and the Syrian community.
+
+## Featured Projects / المشاريع المميزة
+1. **Demonstrations in Finland (Mielenosoitukset Suomessa | المظاهرات في فنلندا):**
+   - Visual documentation of public demonstrations, cultural protests, and civil movements across Finland.
+   - Image: https://hmoda-syyrfnda.github.io/Mohammad-Saad-Portfolio/protests-finland.jpeg
+
+2. **Syrian Community in Finland (Syyrialainen yhteisö | المجتمع السوري في فنلندا):**
+   - Documenting the cultural life, shared experiences, integration, and human stories of Syrians living in Finland.
+   - Image: https://hmoda-syyrfnda.github.io/Mohammad-Saad-Portfolio/syrian-community.jpeg
+
+3. **Jablah, Syria (Jablah, Syyria | مدينة جبلة، سوريا):**
+   - A personal documentary project connecting to his hometown of Jablah, Syria, capturing community resilience from a local perspective.
+   - Image: https://hmoda-syyrfnda.github.io/Mohammad-Saad-Portfolio/jableh-syria.jpg
+
+## Official Contact & Links / الروابط الرسمية
+- **Website:** https://hmoda-syyrfnda.github.io/Mohammad-Saad-Portfolio/
+- **Linktree:** https://linktr.ee/hmoda.syyrfnda
+- **GitHub:** https://github.com/hmoda-syyrfnda
+- **Profile Photo:** https://hmoda-syyrfnda.github.io/Mohammad-Saad-Portfolio/hero.png
